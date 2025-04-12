@@ -1,3 +1,9 @@
+HTML
+```
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/CSS/pyeojin-font.css"/>
+```
+
+
 ## 크레딧
 #### 바탕<br/>
 [Inter](https://github.com/rsms/inter): Rasmus Andersson
