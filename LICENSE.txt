@@ -1,5 +1,6 @@
 Copyright (c) 2025, Suh Ji-hwan (https://github.com/Jihwan-Suh/PyeojinGothic),
 with Reserved Font Name 'PyeojinGothic'.
+
 Copyright (c) 2021, Kil Hyung-jin (https://github.com/orioncactus/pretendard),
 with Reserved Font Name 'Pretendard'.
 
