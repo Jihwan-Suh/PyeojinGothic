@@ -13,7 +13,7 @@
 [Inter](https://github.com/rsms/inter): Rasmus Andersson
 
 #### 한글 바탕<br/>
-[Source Han Sans](https://github.com/adobe-fonts/source-han-sans): Adobe, Google, 산돌커뮤니케이션; 장수영, 강주연, Pretendard: 길형진
+[Source Han Sans](https://github.com/adobe-fonts/source-han-sans): Adobe, Google, 산돌커뮤니케이션; 장수영, 강주연, [Pretendard](https://github.com/orioncactus/pretendard): 길형진
 
 #### 가나 바탕<br/>
 [M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS): UNDERFOREST DESIGN; Coji Morishita
