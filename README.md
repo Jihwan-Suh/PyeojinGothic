@@ -1,5 +1,5 @@
 HTML
-```
+```Ruby
 <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/CSS/pyeojin-font.css"/>
 ```
 
