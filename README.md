@@ -6,7 +6,6 @@
 <br/>
 <br/>
 <br/>
-![Image](https://github.com/user-attachments/assets/05b05a97-84a7-465e-b03e-4715a988716c)
 
 ## 웹폰트
 #### HTML
