@@ -13,15 +13,16 @@
 
 @font-face {
   font-family: 'PyeojinGothic';
-  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/PyeojinGothic-SemiBold.woff') format('woff');
-  font-weight: 600;
+  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/PyeojinGothic-Medium.woff') format('woff');
+  font-weight: 500;
 }
 
 @font-face {
   font-family: 'PyeojinGothic';
-  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/PyeojinGothic-Medium.woff') format('woff');
-  font-weight: 500;
+  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/PyeojinGothic-SemiBold.woff') format('woff');
+  font-weight: 600;
 }
+
 
 @font-face {
   font-family: 'PyeojinGothic';
