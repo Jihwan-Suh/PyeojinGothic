@@ -1,30 +1,31 @@
 
 @font-face {
   font-family: 'PyeojinGothic';
-  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/PyeojinGothic-Light.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/woff/PyeojinGothic-Light.woff') format('woff');
   font-weight: 300;
 }
 
 @font-face {
   font-family: 'PyeojinGothic';
-  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/PyeojinGothic-Regular.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/woff/PyeojinGothic-Regular.woff') format('woff');
   font-weight: 400;
 }
 
 @font-face {
   font-family: 'PyeojinGothic';
-  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/PyeojinGothic-SemiBold.woff') format('woff');
-  font-weight: 600;
-}
-
-@font-face {
-  font-family: 'PyeojinGothic';
-  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/PyeojinGothic-Medium.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/woff/PyeojinGothic-Medium.woff') format('woff');
   font-weight: 500;
 }
 
 @font-face {
   font-family: 'PyeojinGothic';
-  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/PyeojinGothic-Bold.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/woff/PyeojinGothic-SemiBold.woff') format('woff');
+  font-weight: 600;
+}
+
+
+@font-face {
+  font-family: 'PyeojinGothic';
+  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/woff/PyeojinGothic-Bold.woff') format('woff');
   font-weight: 700;
 }
