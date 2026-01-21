@@ -29,3 +29,15 @@
   src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/woff/PyeojinGothic-Bold.woff') format('woff');
   font-weight: 700;
 }
+
+@font-face {
+  font-family: 'PyeojinGothic';
+  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/woff/PyeojinGothic-ExtraBold.woff') format('woff');
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: 'PyeojinGothic';
+  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/PyeojinGothic/fonts/web/woff/PyeojinGothic-Black.woff') format('woff');
+  font-weight: 900;
+}
